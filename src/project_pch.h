@@ -51,5 +51,5 @@
 #include <HelperLibrary/anymacro.h>
 #include <HelperLibrary/Resources/resourceexplorerdialog.h>
 #include <HelperLibrary/Decorator/basedecorator.h>
-#include <HelperLibrary/Widgets/VariantMapEditor/variantmapeditor.h>
+#include <HelperLibrary/Widgets/VariantMapEditor/VariantMapEditor.h>
 
